@@ -1,7 +1,7 @@
 spring:
   datasource:
-    password: root
-    username: Abc123
+    password: Abc123
+    username: root
     url: jdbc:mysql://172.20.0.2:3306/fornecedor
   jpa:
     hibernate:
