@@ -1,7 +1,7 @@
 spring:
   datasource:
     password: Abc123
-    username: root
+    username: container
     url: jdbc:mysql://localhost:3306/fornecedor
   jpa:
     hibernate:
